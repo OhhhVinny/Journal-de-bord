@@ -1,10 +1,6 @@
 # Cours 7
 ## Analyse critique d'une oeuvre
 
-L’objectif de cet exercice est de développer une opinion sur une œuvre multimédia. Pour l’analyse, choisissez l’une des œuvres que nous avons visitées. 
-
-Entre 300 et 400 mots. 
-
 ### Description
 
 L'oeuvre analysé est l'installation sur Van Gogh par Oasis immersion. Le site était séparé en 3 pièces de différentes grandeurs. Dans chaques pièces l'installation était différente et basée sur un types d'art que Van Gogh a réalisé au courant de sa vie. Les deux premières pièces étaient seulement composées de bancs au centre et un visuel de 360 degrées sur les mur. La dernière pièce contenait des banc de parc et avait un système d'intéraction au sol en lien avec ce qui était raconté et présentés sur les murs. 
